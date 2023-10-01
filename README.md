@@ -1,3 +1,3 @@
 # Piano - 10012023
 
-No license in this repo.
+No license in this repository.
